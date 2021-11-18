@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perdomohd
+- 👋 Hi, I’m @perdomohd My name is David
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any project based on javascript to improve my skills
